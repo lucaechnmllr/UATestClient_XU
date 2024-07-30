@@ -1,0 +1,13 @@
+#
+# [Date/Time]   Tue Jul 30 10:05:02 2024
+#
+# ---- Description ---- 
+#
+# 10 signals are written.
+# After each write operation, the time is measured until the signal change is visible on the server.
+# At the end, an average value is calculated which defines the average write duration of a signal.
+#
+# ---------------------
+#
+# Time is formatted in microseconds [us]
+#
